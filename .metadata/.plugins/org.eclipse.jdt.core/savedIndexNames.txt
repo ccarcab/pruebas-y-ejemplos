@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\2DAM\Eclipse\pruebas-y-ejemplos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3083872284.index
+786004390.index

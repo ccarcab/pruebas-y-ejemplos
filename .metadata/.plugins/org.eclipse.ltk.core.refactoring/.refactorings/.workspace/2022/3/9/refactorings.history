@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;javafx&apos; to &apos;javafx_EjemploNav_01&apos;&#x0D;&#x0A;- Original element: &apos;javafx&apos;&#x0D;&#x0A;- Renamed element: &apos;javafx&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;javafx&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=javafx" name="javafx_EjemploNav_01" references="true" stamp="1646435421110" version="1.0"/>
+</session>

@@ -1,0 +1,266 @@
+2022-03-05 00:07:28,035 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-05 00:08:13,239 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-05 00:09:48,571 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx\pom.xml
+2022-03-05 00:09:52,876 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pruebas:javafx:0.0.1-SNAPSHOT @ E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx\pom.xml.
+2022-03-05 00:09:52,978 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.pom
+2022-03-05 00:09:53,004 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.pom
+2022-03-05 00:09:53,019 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx/17.0.2/javafx-17.0.2.pom
+2022-03-05 00:09:53,043 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx/17.0.2/javafx-17.0.2.pom
+2022-03-05 00:09:53,071 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.pom
+2022-03-05 00:09:53,102 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.pom
+2022-03-05 00:09:53,125 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.pom
+2022-03-05 00:09:53,148 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.pom
+2022-03-05 00:09:53,167 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.pom
+2022-03-05 00:09:53,199 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.pom
+2022-03-05 00:09:53,236 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar
+2022-03-05 00:09:53,244 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-win.jar
+2022-03-05 00:09:53,245 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar
+2022-03-05 00:09:53,245 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar
+2022-03-05 00:09:53,269 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-win.jar
+2022-03-05 00:09:53,274 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar
+2022-03-05 00:09:53,283 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar
+2022-03-05 00:09:53,283 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar
+2022-03-05 00:09:53,333 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-win.jar
+2022-03-05 00:09:53,348 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-win.jar
+2022-03-05 00:09:53,348 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.jar
+2022-03-05 00:09:53,478 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.jar
+2022-03-05 00:09:53,522 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-win.jar
+2022-03-05 00:09:53,611 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-win.jar
+2022-03-05 00:09:53,825 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-win.jar
+2022-03-05 00:09:53,936 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-win.jar
+2022-03-05 00:09:54,278 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafx/src/main/java
+2022-03-05 00:09:54,278 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /javafx/src/main/resources
+2022-03-05 00:09:54,284 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafx/src/test/java
+2022-03-05 00:09:55,303 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-sources.jar
+2022-03-05 00:09:55,625 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-sources.jar
+2022-03-05 00:09:55,627 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-controls:17.0.2
+2022-03-05 00:09:55,833 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-sources.jar
+2022-03-05 00:09:55,965 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:09:55,978 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:09:55,986 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:09:55,986 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx\src\test\resources
+2022-03-05 00:09:56,246 [Worker-1: Creating javafx-archetype-fxml] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2022-03-05 00:09:56,487 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:09:56,488 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-05 00:09:56,489 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:09:56,489 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx\src\test\resources
+2022-03-05 00:09:56,585 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-sources.jar
+2022-03-05 00:09:56,587 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-graphics:17.0.2
+2022-03-05 00:09:56,682 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-sources.jar
+2022-03-05 00:09:56,758 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-sources.jar
+2022-03-05 00:09:56,760 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-base:17.0.2
+2022-03-05 00:09:56,834 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-sources.jar
+2022-03-05 00:09:56,879 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-sources.jar
+2022-03-05 00:09:56,881 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-fxml:17.0.2
+2022-03-05 00:09:57,552 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:09:57,552 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-05 00:09:57,553 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:09:57,553 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx\src\test\resources
+2022-03-05 00:10:21,486 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pruebas:javafx:0.0.1-SNAPSHOT @ E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01\pom.xml.
+2022-03-05 00:10:21,563 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:10:21,563 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:10:21,566 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:10:21,566 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01\src\test\resources
+2022-03-05 00:10:22,784 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:10:22,787 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:10:22,790 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:10:22,790 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01\src\test\resources
+2022-03-05 00:10:26,251 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:10:26,251 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-05 00:10:26,252 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:10:26,252 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01\src\test\resources
+2022-03-05 00:12:13,767 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:12:13,768 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:12:13,773 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:12:13,773 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01\src\test\resources
+2022-03-05 00:12:13,925 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pruebas:javafx:0.0.1-SNAPSHOT @ E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\pom.xml.
+2022-03-05 00:12:14,024 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:12:14,024 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:12:14,028 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:12:14,028 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:12:15,202 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:12:15,202 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:12:15,206 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:12:15,206 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:15:16,807 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:15:16,808 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:15:16,809 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:15:16,809 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01\src\test\resources
+2022-03-05 00:16:31,258 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:16:31,258 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:16:31,261 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:16:31,261 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:16:37,282 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:16:37,282 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:16:37,285 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:16:37,285 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:17:20,744 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-05 00:17:20,790 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pruebas:javafx:0.0.1-SNAPSHOT @ E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\pom.xml.
+2022-03-05 00:17:20,826 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafx_EjemploNav_02/src/main/java
+2022-03-05 00:17:20,826 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /javafx_EjemploNav_02/src/main/resources
+2022-03-05 00:17:20,826 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafx_EjemploNav_02/src/test/java
+2022-03-05 00:17:21,063 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:17:21,064 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:17:21,067 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:17:21,067 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:17:21,111 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-03-05 00:17:21,394 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:17:21,394 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:17:21,397 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:17:21,397 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:21:44,840 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:21:44,842 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:21:44,845 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:21:44,845 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:22:42,219 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:22:42,219 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:22:42,221 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:22:42,222 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:25:45,770 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:25:45,771 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:25:45,772 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:25:45,772 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:27:51,860 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:27:51,860 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-05 00:27:51,862 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:27:51,862 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:28:39,572 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:28:39,573 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-05 00:28:39,575 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:28:39,575 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:28:40,627 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:28:40,627 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-05 00:28:40,629 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:28:40,629 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:28:42,177 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:28:42,178 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-05 00:28:42,180 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:28:42,180 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:28:59,528 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:28:59,529 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:28:59,530 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:28:59,530 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:29:36,087 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:29:36,088 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:29:36,091 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:29:36,091 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01\src\test\resources
+2022-03-05 00:30:58,599 [Worker-27: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01
+2022-03-05 00:30:58,601 [Worker-27: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B mvn javafx:run
+2022-03-05 00:31:21,397 [Worker-28: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01
+2022-03-05 00:31:21,397 [Worker-28: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean javafx:run
+2022-03-05 00:31:51,564 [Worker-28: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01
+2022-03-05 00:31:51,564 [Worker-28: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean javafx:run
+2022-03-05 00:32:14,040 [Worker-25: Launching Ej02Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02
+2022-03-05 00:32:14,040 [Worker-25: Launching Ej02Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean javafx:run
+2022-03-05 00:34:36,604 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:34:36,605 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:34:36,608 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:34:36,608 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:40:15,794 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:40:15,794 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:40:15,797 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:40:15,797 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:40:32,882 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:40:32,883 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:40:32,884 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:40:32,884 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:40:52,112 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:40:52,113 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:40:52,113 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:40:52,113 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:40:54,391 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:40:54,391 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:40:54,392 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:40:54,392 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:41:49,526 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:41:49,526 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:41:49,527 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:41:49,527 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:42:42,463 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:42:42,463 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:42:42,464 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:42:42,464 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:43:09,445 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:43:09,446 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:43:09,447 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:43:09,447 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:43:21,277 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:43:21,277 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:43:21,278 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:43:21,278 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:43:23,082 [Worker-28: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01
+2022-03-05 00:43:23,082 [Worker-28: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean javafx:run
+2022-03-05 00:43:45,174 [Worker-32: Launching Ej02Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02
+2022-03-05 00:43:45,175 [Worker-32: Launching Ej02Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean javafx:run
+2022-03-05 00:44:29,184 [Worker-35: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01
+2022-03-05 00:44:29,184 [Worker-35: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean javafx:run
+2022-03-05 00:44:43,681 [Worker-33: Launching Ej02Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02
+2022-03-05 00:44:43,681 [Worker-33: Launching Ej02Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean javafx:run
+2022-03-05 00:45:09,421 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:45:09,422 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:45:09,422 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:45:09,423 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:45:10,432 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:45:10,432 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:45:10,433 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:45:10,433 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:46:07,645 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:07,645 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:46:07,646 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:07,646 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:46:17,910 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:17,910 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:46:17,911 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:17,911 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:46:26,907 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:26,907 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:46:26,908 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:26,908 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:46:40,624 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:40,624 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-05 00:46:40,624 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:40,624 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:46:41,681 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:41,681 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:46:41,682 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:46:41,682 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:47:19,342 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:47:19,342 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-05 00:47:19,343 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:47:19,344 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:47:20,395 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:47:20,396 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-05 00:47:20,398 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:47:20,398 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:47:20,406 [Worker-34: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01
+2022-03-05 00:47:20,406 [Worker-34: Launching Ej01Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean javafx:run
+2022-03-05 00:47:27,421 [Worker-29: Launching Ej02Config] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02
+2022-03-05 00:47:27,421 [Worker-29: Launching Ej02Config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean javafx:run
+2022-03-05 00:48:39,776 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:48:39,776 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:48:39,777 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:48:39,777 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:48:53,525 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:48:53,525 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:48:53,526 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:48:53,526 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:49:36,175 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:49:36,176 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-05 00:49:36,176 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:49:36,177 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_01\src\test\resources
+2022-03-05 00:51:05,817 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:51:05,817 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:51:05,818 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:51:05,818 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:51:40,353 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:51:40,353 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:51:40,354 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:51:40,354 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:52:54,263 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:52:54,264 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:52:54,264 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:52:54,265 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
+2022-03-05 00:54:07,860 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:54:07,860 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-03-05 00:54:07,861 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-05 00:54:07,861 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\2DAM\Eclipse\pruebas-y-ejemplos\javafx_EjemploNav_02\src\test\resources
