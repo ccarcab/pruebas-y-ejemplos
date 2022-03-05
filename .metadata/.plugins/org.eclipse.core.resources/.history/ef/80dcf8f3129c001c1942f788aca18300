@@ -1,7 +1,0 @@
-module com.pruebas.javafx {
-    requires javafx.controls;
-    requires javafx.fxml;
-
-    opens com.pruebas.javafx to javafx.fxml;
-    exports com.pruebas.javafx;
-}
