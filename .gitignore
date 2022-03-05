@@ -1,6 +1,4 @@
-##############################
-## Eclipse
-##############################
+
 .settings/
 bin/
 tmp/
@@ -15,9 +13,6 @@ local.properties
 .loadpath
 .factorypath
 
-##############################
-## Java
-##############################
 .mtj.tmp/
 *.class
 *.jar
@@ -26,9 +21,6 @@ local.properties
 *.nar
 hs_err_pid*
 
-##############################
-## Maven
-##############################
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -42,3 +34,4 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
 *.log
+*.xmi
